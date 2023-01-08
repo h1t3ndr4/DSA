@@ -4,10 +4,5 @@
 
 let N = 4;
 
-if (N % 4 == 0) {
-    console.log("Yes");
-}
-else {
-    console.log("No");
-}
+N % 4 == 0 ? console.log("Yes") : console.log("No");
 
