@@ -2,7 +2,7 @@
 
 //write your code here
 
-let n = 2;
-let m = 3;
+let n = 2,
+    m = 3;
 
 n ** 3 > m ** 2 ? console.log("Yes") : console.log("No");
