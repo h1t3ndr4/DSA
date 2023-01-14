@@ -6,8 +6,9 @@
 // You have to print the result of three operations in the order as shown above
 
 // Write your code here
-let num1 = 3;
-let num2 = 5;
+let num1 = 3,
+    num2 = 5;
+
 console.log(num1 > num2);
 console.log(num1 < num2);
 console.log(num1 == num2);
