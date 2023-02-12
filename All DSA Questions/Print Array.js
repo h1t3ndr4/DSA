@@ -18,8 +18,6 @@ for (let i = 0; i < N; i++) {
 
 //or
 
-//travese the array
-
 arr.forEach((element) => {
     console.log(element);
 });
@@ -28,9 +26,7 @@ arr.forEach((element) => {
 
 arr.map((element) => {
     console.log(element);
-})
-
-//or
+});
 
 
 
